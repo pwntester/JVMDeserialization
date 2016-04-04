@@ -1,0 +1,139 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> /Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/target/scala-2.11/classes/SerializationDemo$.class
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> /Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/target/scala-2.11/classes/SerializationDemo$delayedInit$body.class
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> /Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/target/scala-2.11/classes/SerializationDemo.class
+binary dependencies:
+3 items
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> /Users/alvaro/.ivy2/cache/org.beanshell/bsh/jars/bsh-2.0b5.jar
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> /Users/alvaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> SerializationDemo
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> SerializationDemo$
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> SerializationDemo$delayedInit$body
+used names:
+55 items
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> <init>
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> App
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> Array
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> ClassTag
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> Comparator
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> Field
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> FileInputStream
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> FileOutputStream
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> Interpreter
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> InvocationHandler
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> Object
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> ObjectInputStream
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> ObjectOutputStream
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> Predef
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> PriorityQueue
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> Proxy
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> SerializationDemo
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> String
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> XThis
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> apply
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> asInstanceOf
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> bsh
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> close
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> comparator
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> eval
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> exploit_oos
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> field1
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> field2
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> get
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> getClass
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> getClassLoader
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> getDeclaredField
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> getNameSpace
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> handler
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> handler_field
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> i
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> io
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> java
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> lang
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> materializeClassTag
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> newProxyInstance
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> package
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> payload
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> pois
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> priorityQueue
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> queue
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> readObject
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> reflect
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> scala
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> set
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> setAccessible
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> update
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> util
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> writeObject
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> xt
+product stamps:
+3 items
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/target/scala-2.11/classes/SerializationDemo$.class -> lastModified(1459768345000)
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/target/scala-2.11/classes/SerializationDemo$delayedInit$body.class -> lastModified(1459768345000)
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/target/scala-2.11/classes/SerializationDemo.class -> lastModified(1459768344000)
+source stamps:
+1 items
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> hash(71f97ae903c51dc7f5fff7ca08d238795fce18d1)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1450828997000)
+/Users/alvaro/.ivy2/cache/org.beanshell/bsh/jars/bsh-2.0b5.jar -> lastModified(1331890072000)
+/Users/alvaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/alvaro/.ivy2/cache/org.beanshell/bsh/jars/bsh-2.0b5.jar -> bsh.Interpreter
+/Users/alvaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.App
+internal apis:
+1 items
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDVTszQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMM5HlN0AAZub3RpZnlzcQB+AAyaQRIedAACeHRzcQB+AAxocEj0dAAEd2FpdHNxAH4ADB6PDE90AARwb2lzc3EAfgAMxqUI53QADSRhc0luc3RhbmNlT2ZzcQB+AAwwXjd/dAANaGFuZGxlcl9maWVsZHNxAH4ADPDiODx0AAdwYXlsb2Fkc3EAfgAMIPi6S3QABmVxdWFsc3NxAH4ADK128oZ0AAVxdWV1ZXNxAH4ADJ3RzOh0AAxhc0luc3RhbmNlT2ZzcQB+AAyupB7RdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAx+qttidAAMc3luY2hyb25pemVkc3EAfgAMDNdlRHQADSRpc0luc3RhbmNlT2ZzcQB+AAzzWlgcdAAGZmllbGQxc3EAfgAMUtixrHQABG1haW5zcQB+AAyXAL3hdAABaXNxAH4ADHNOEQt0AAlub3RpZnlBbGxzcQB+AAwc5PzRdAAMaXNJbnN0YW5jZU9mc3EAfgAMvTrpGXQAAj09c3EAfgAMc5otB3QABWNsb25lc3EAfgAM7pLh5HQADXByaW9yaXR5UXVldWVzcQB+AAw3WFmZdAAGZmllbGQyc3EAfgAM1AP4SnQABiRpbml0JHNxAH4ADBlEzhF0AAh0b1N0cmluZ3NxAH4ADA2sW/l0AARhcmdzc3EAfgAMWsA8VnQAAiE9c3EAfgAMNgXkyXQAC2V4cGxvaXRfb29zc3EAfgAMAG/v7XQACmNvbXBhcmF0b3JzcQB+AAyDREvcdAAIZ2V0Q2xhc3NzcQB+AAyoC8MadAACbmVzcQB+AAy62ssMdAARU2VyaWFsaXphdGlvbkRlbW9zcQB+AAwI/RITdAAHaGFuZGxlcnNxAH4ADKpT+910AAJlcXNxAH4ADI2VZDl0AAtkZWxheWVkSW5pdHNxAH4ADNNDRpN0AAIjI3NxAH4ADAbfXZt0AAhmaW5hbGl6ZXNxAH4ADARdyyN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AS3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AenNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AH9zcQB+AHp1cQB+AFwAAAAAc3EAfgB6dXEAfgBcAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBicQB+AGt1cQB+AGwAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCJeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH50ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ao3NxAH4AbgBxAH4AK3VxAH4AcAAAAABzcQB+AJZ0AARVbml0cQB+AJx1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCJeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBzdAAFUGxhaW5xAH4AP3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Al1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfnNxAH4AlnQABUFycmF5cQB+AJx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AlnQABlN0cmluZ3NxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJ0AARqYXZhc3EAfgCidAAEbGFuZ3EAfgCnc3EAfgB6dXEAfgC+AAAABHNxAH4AlnQAA0FwcHEAfgCcc3EAfgCWdAALRGVsYXllZEluaXRxAH4AnHNxAH4AlnQABk9iamVjdHEAfgDCc3EAfgCWdAADQW55cQB+AJx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+D5M4h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLL1VzZXJzL2FsdmFyby9Gb3J0aWZ5L1NTUi9TZXJpYWxLaWxsZXIvSlZNcy9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcfl66QPFHcf1//fKCNI4eV/OGNE=
+external apis:
+0 items
+source infos:
+1 items
+/Users/alvaro/Fortify/SSR/SerialKiller/JVMs/scala/SerializationDemo.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU+D5M4h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9hbHZhcm8vRm9ydGlmeS9TU1IvU2VyaWFsS2lsbGVyL0pWTXMvc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
